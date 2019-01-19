@@ -1,10 +1,10 @@
 # Gerchberg-Saxton-algorithm
-*Phase recovery using the GS method.  
+*Phase recovery using the GS method.*  
   
-*Reference of GS method  
+*Reference of GS method*  
 R. W. Gerchberg and W. O. Saxton, "A practical algorithm for the determination of the phase from image and diffraction plane pictures", Optik 35, 237 (1972)  
   
-*Reference of WGS method  
+*Reference of WGS method*  
 R. Di Leonardo, F. Ianni, and G. Ruocco,"Computer generation of optimal holograms for optical trap arrays",Opt. Express 15,1913 (2007)  
   
 By executing the GS method (loop number of times 30) on the sample target, a reconstructed image with uniformity of about 0.5 is obtained.  
