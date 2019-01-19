@@ -56,7 +56,7 @@ def main():
     phase = np.random.rand(height, width)
     u = np.empty_like(target, dtype="complex")
     
-    iteration = 10
+    iteration = 30
     uniformity = []
     
     for num in range(iteration):
